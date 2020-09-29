@@ -1,2 +1,2 @@
 # Discord Bot Portal JP
-コミュニティに関することを管理します
+Discord Bot 利用者/開発者のための情報共有コミュニティです。
