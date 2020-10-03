@@ -5,7 +5,7 @@ Discord Bot 利用者/開発者のための情報共有コミュニティです�
 - [Twitter](https://twitter.com/discordbot_jp)
 
 ## 各種ドキュメント
-- [Python初心者向けDiscordBot開発ロードマップ.md](/docs/Python初心者向けDiscordBot開発ロードマップ.md)
+- [Python初心者向けDiscordBot開発ロードマップ](/docs/Python初心者向けDiscordBot開発ロードマップ.md)
 
 ### ログ
 
