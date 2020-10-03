@@ -84,7 +84,7 @@
 
 - 競技プログラミング (AtCoder)
 - API,Webプログラミング (Flask, Django)
-  - [Techpit（テックピット）- サービスを作りながら学べるプログラミング学習プラットフォーム - Techpit（テックピット）](https://www.techpit.jp/)
+  - [Techpit（テックピット）- サービスを作りながら学べるプログラミング学習プラットフォーム](https://www.techpit.jp/)
 - GUIプログラミング
 - 複数言語
   - [Discord.js Japan User Group](https://scrapbox.io/discordjs-japan/)
