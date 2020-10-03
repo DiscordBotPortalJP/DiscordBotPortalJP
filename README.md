@@ -8,14 +8,14 @@ Discord Bot 利用者/開発者のための情報共有コミュニティです�
 
 ### discordpy
 - [Python初心者向けDiscordBot開発ロードマップ](/docs/discordpy/developer-roadmap.md)
-- /docs/discordpy/1.md
-- /docs/discordpy/2.md
-- /docs/discordpy/3.md
-- /docs/discordpy/4.md
-- /docs/discordpy/5.md
-- /docs/discordpy/6.md
-- /docs/discordpy/7.md
-- /docs/discordpy/8.md
+- [特定の名前の役職(Role)を消す](/docs/discordpy/1.md)
+- [EmptyEmbed関連のエラーについて](/docs/discordpy/2.md)
+- [サーバー内のメンバー数を取得](/docs/discordpy/3.md)
+- [message.channelがTextChannel以外なら無視する](/docs/discordpy/4.md)
+- [リアクションを付けた人に役職を付与する](/docs/discordpy/5.md)
+- [サーバーに参加した人に自動で役職を付与する](/docs/discordpy/6.md)
+- [メンバーに一括で役職を付与](/docs/discordpy/7.md)
+- [招待URLの使用回数を取得する](/docs/discordpy/8.md)
 
 ### ログ
 - [人狼DiscordBot共同開発](/docs/logs/develop-werewolf-discordbot.md)
