@@ -14,18 +14,18 @@
 
 ### 有料チュートリアル
 - [PyQ（パイキュー） - 本気でプログラミングを学びたい人のPythonオンライン学習サービス](https://pyq.jp/)
-- [オンラインコース - いろんなことを、あなたのペースで | Udemy](https://www.udemy.com/ja/)
-- [Progate | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/)
-- [シェルコマンド入門編のレッスン一覧 | プログラミング学習サービス【paizaラーニング】](https://paiza.jp/works/shellcommand/primer)
-- [Git入門編のレッスン一覧 | プログラミング学習サービス【paizaラーニング】](https://paiza.jp/works/git/primer)
+- [オンラインコース - いろんなことを、あなたのペースで - Udemy](https://www.udemy.com/ja/)
+- [Progate - プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/)
+- [シェルコマンド入門編のレッスン一覧 - プログラミング学習サービス【paizaラーニング】](https://paiza.jp/works/shellcommand/primer)
+- [Git入門編のレッスン一覧 - プログラミング学習サービス【paizaラーニング】](https://paiza.jp/works/git/primer)
 
 ### 無料チュートリアル
 - [コマンドラインを使ってみよう · Django Girls Tutorial](https://tutorial.djangogirls.org/ja/intro_to_command_line/)
 - [Python入門 · Django Girls Tutorial](https://tutorial.djangogirls.org/ja/python_introduction/)
-- [Python-izm | Python の入門から応用までをサポートする学習サイト](https://www.python-izm.com/)
-- [Python3入門編のレッスン一覧 | プログラミング学習サービス【paizaラーニング】](https://paiza.jp/works/python3/primer)
+- [Python-izm - Python の入門から応用までをサポートする学習サイト](https://www.python-izm.com/)
+- [Python3入門編のレッスン一覧 - プログラミング学習サービス【paizaラーニング】](https://paiza.jp/works/python3/primer)
 - [京都大学 プログラミング演習 Python 2019](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/245698)
-- [CODEPREP | Python入門 基本操作編](https://codeprep.jp/books/61)
+- [CODEPREP - Python入門 基本操作編](https://codeprep.jp/books/61)
 - [チュートリアル — ディープラーニング入門：Chainer チュートリアル](https://tutorials.chainer.org/ja/tutorial.html)
 
 ### 書籍
@@ -82,7 +82,7 @@
 
 - 競技プログラミング (AtCoder)
 - API,Webプログラミング (Flask, Django)
-  - [Techpit（テックピット）|サービスを作りながら学べるプログラミング学習プラットフォーム | Techpit（テックピット）](https://www.techpit.jp/)
+  - [Techpit（テックピット）- サービスを作りながら学べるプログラミング学習プラットフォーム - Techpit（テックピット）](https://www.techpit.jp/)
 - GUIプログラミング
 - 複数言語
   - [Discord.js Japan User Group](https://scrapbox.io/discordjs-japan/)
