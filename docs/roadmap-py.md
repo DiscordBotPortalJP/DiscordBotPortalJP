@@ -1,4 +1,4 @@
-# Python初心者向けDiscordBot開発ロードマップ.md
+# Python初心者向けDiscordBot開発ロードマップ
 
 ### コミュニティに入る
 
