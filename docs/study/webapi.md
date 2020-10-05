@@ -36,7 +36,7 @@
 
 `pip install requests` をしておく
 
-```python=
+```python
 import requests
 from pprint import pprint
 
@@ -48,7 +48,7 @@ pprint(res.json())
 
 ### aiohttp を使って API を使ってみる
 
-```python=
+```python
 from discord import Intents
 from discord.ext import commands
 import os
@@ -87,7 +87,7 @@ bot.run(token)
 
 1. コード
 
-```python=
+```python
 from fastapi import FastAPI
 
 # アプリケーションの初期化
