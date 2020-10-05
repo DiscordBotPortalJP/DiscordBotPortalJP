@@ -1,4 +1,4 @@
-# WebAPI&HTTP基礎編（メモ）
+# WebAPI&HTTP基礎編
 
 ## DiscordBot が使っている DiscordAPI の話
 - https://discord.com/developers
