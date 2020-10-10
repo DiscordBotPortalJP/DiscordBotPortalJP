@@ -21,4 +21,5 @@ Discord Bot 利用者/開発者のための情報共有コミュニティです�
 - [人狼DiscordBot共同開発](/docs/logs/develop-werewolf-discordbot.md)
 
 ### 勉強会
+- [JavaScript基礎編](/docs/study/javascript-basic.md)
 - [WebAPI&HTTP基礎編](/docs/study/webapi.md)
