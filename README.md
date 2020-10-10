@@ -6,7 +6,7 @@ Discord Bot 利用者/開発者のための情報共有コミュニティです�
 
 ## 各種ドキュメント
 
-### discordpy
+### discordpy資料
 - [Python初心者向けDiscordBot開発ロードマップ](/docs/discordpy/developer-roadmap.md)
 - [特定の名前の役職(Role)を消す](/docs/discordpy/1.md)
 - [EmptyEmbed関連のエラーについて](/docs/discordpy/2.md)
