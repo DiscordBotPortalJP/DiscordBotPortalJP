@@ -17,9 +17,9 @@ Discord Bot 利用者/開発者のための情報共有コミュニティです�
 - [メンバーに一括で役職を付与](/docs/discordpy/7.md)
 - [招待URLの使用回数を取得する](/docs/discordpy/8.md)
 
-### ログ
-- [人狼DiscordBot共同開発](/docs/logs/develop-werewolf-discordbot.md)
-
-### 勉強会
+### 勉強会議事録
 - [JavaScript基礎編](/docs/study/javascript-basic.md)
 - [WebAPI&HTTP基礎編](/docs/study/webapi.md)
+
+### 共同開発議事録
+- [人狼DiscordBot共同開発](/docs/logs/develop-werewolf-discordbot.md)
