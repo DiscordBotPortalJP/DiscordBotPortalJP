@@ -24,3 +24,4 @@ Discord Bot 利用者/開発者のための情報共有コミュニティです�
 
 ### 共同開発資料
 - [人狼DiscordBot共同開発](/docs/logs/develop-werewolf-discordbot.md)
+- [Discord Users Database共同開発](/docs/logs/develop-discord-users-database.md)
