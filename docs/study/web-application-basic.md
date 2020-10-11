@@ -7,7 +7,7 @@
 - [超絶初心者のためのフロント入門（HTML、CSS、JavaScript） - Qiita](https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987)
 
 ### HTML
-- [HTML の基本 - ウェブ開発を学ぶ | MDN](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [HTML の基本 - ウェブ開発を学ぶ - MDN](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - Hypertext Markup Language
 - Webサイトの本体。主にレイアウトを決めるための言語。
 
